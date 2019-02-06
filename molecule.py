@@ -3,6 +3,7 @@
 # Molecular mass caluculation class for example code
 # Modified by E Brown, 2018-2019 
 # Qfrom https://gist.github.com/Rhomboid/5994999#file-example-py-L48
+# Modified by Wei Liu. Jan 25, 2019
 
 """Molecular mass calculation
 
